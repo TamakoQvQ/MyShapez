@@ -1,0 +1,52 @@
+<RCC>
+    <qresource prefix="/main">
+        <file>Picture/blue_mineral.png</file>
+        <file>Picture/Miner.png</file>
+        <file>Picture/red_mineral.png</file>
+        <file>Picture/BuildingCards/belt.png</file>
+        <file>Picture/BuildingCards/cutter.png</file>
+        <file>Picture/BuildingCards/miner.png</file>
+        <file>Picture/BuildingCards/trash.png</file>
+        <file>Picture/Blue/miner0.png</file>
+        <file>Picture/Blue/miner1.png</file>
+        <file>Picture/Blue/miner2.png</file>
+        <file>Picture/Blue/miner3.png</file>
+        <file>Picture/Belt.png</file>
+        <file>Picture/Blue/belt0.png</file>
+        <file>Picture/Blue/belt1.png</file>
+        <file>Picture/Blue/belt2.png</file>
+        <file>Picture/Blue/belt3.png</file>
+        <file>Picture/Belt_turn.png</file>
+        <file>Picture/Blue/belt_turn0.png</file>
+        <file>Picture/Blue/belt_turn1.png</file>
+        <file>Picture/Blue/belt_turn2.png</file>
+        <file>Picture/Blue/belt_turn3.png</file>
+        <file>Picture/BuildingCards/belt_turn.png</file>
+        <file>Picture/Cutter.png</file>
+        <file>Picture/Blue/cutter0.png</file>
+        <file>Picture/Blue/cutter1.png</file>
+        <file>Picture/Blue/cutter2.png</file>
+        <file>Picture/Blue/cutter3.png</file>
+        <file>Picture/Trash.png</file>
+        <file>Picture/Blue/trash0.png</file>
+        <file>Picture/Blue/trash1.png</file>
+        <file>Picture/Blue/trash2.png</file>
+        <file>Picture/Blue/trash3.png</file>
+        <file>Picture/Goods/Blue.png</file>
+        <file>Picture/delivery_center.png</file>
+        <file>Picture/Goods/Red.png</file>
+        <file>Picture/Goods/BlueLeft.png</file>
+        <file>Picture/Goods/BlueRight.png</file>
+        <file>Picture/selectbox_background.png</file>
+        <file>Picture/BuildingCards/rotater.png</file>
+        <file>Picture/Rotater.png</file>
+        <file>Picture/Blue/rotater0.png</file>
+        <file>Picture/Blue/rotater1.png</file>
+        <file>Picture/Blue/rotater2.png</file>
+        <file>Picture/Blue/rotater3.png</file>
+        <file>Picture/bgm.mp3</file>
+        <file>Picture/start_background.jpg</file>
+        <file>Picture/shop_background.jpg</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
